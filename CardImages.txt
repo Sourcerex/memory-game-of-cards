@@ -1,0 +1,7 @@
+CardBack.png
+2Clubs.png
+2Cups.png
+2Diamonds.png
+2Hearts.png
+2Shields.png
+2Spades.png
